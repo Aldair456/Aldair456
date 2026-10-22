@@ -49,20 +49,5 @@
         <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,spring,postgres,aws,docker,git,github,linux&perline=7" alt="Tecnologías y herramientas" />
     </div>
     <br>
-    <div align="center">
-        <h1>📊 Actividad de contribuciones</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&theme=dark" alt="Estadísticas de GitHub" height="200" />
-        <br>
-        <!--
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="Lenguajes más utilizados" height="200" />
-        <br>
-        -->
-        <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="Racha de contribuciones de GitHub" height="200" />
-        <br>
-        <br>
-    </div>
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat animado" height="100">
-        <p>Cargando...</p>
-    </div>
+
 </div>
